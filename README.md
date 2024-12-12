@@ -1,2 +1,4 @@
 # Terminalic-calculator-Ver-1.0-
-In this repository is calculator in terminal 
+This is a calculator with terminal style
+this calculator is under GPL v3 license
+
